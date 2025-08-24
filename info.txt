@@ -1,0 +1,13 @@
+XML is extensible markup language. it  is desgined for encoding documents in a format that is both human-readable and machine readable.
+AJAX  is a combination of web application development technologies that make web applications more responsive to user interaction. Its full form is Asynchronous javascript and XML.
+JSON is used for storing and exchanging data. it is known as Javascript objectt notation.It is a string value
+API i.e Application Programming Interface is a set of rules and protocols that allows different software systems to communicate with each other.
+TOKEN- JSON TOKEN(read).when we login our data is stored into token and then data is accessed with token.
+local vs session vs cookiees storage.
+localstorage.setitem needs two parameters thats key and string value.
+Parse method is used to convert json into object and stringify is used to convert object into json.
+useEffect(()=> { 
+        
+    },[]), if we write it like this it will work only once.
+
+state and props will re-render or change the value. 
